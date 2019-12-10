@@ -1,5 +1,5 @@
 requests
 BeautifulSoup4
-AsciiTable
+terminaltables
 wget
 argparse

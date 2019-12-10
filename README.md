@@ -11,9 +11,9 @@ Setting up movie-dl
 
 ```
 git clone https://github.com/vikasgola/movie-dl
-sudo python3 -m pip install -r requirements.txt
 sudo mv movie-dl /opt/
 cd /opt/movie-dl
+sudo python3 -m pip install -r requirements.txt
 chmod +x movie-dl
 sudo mv movie-dl /usr/bin
 ```
