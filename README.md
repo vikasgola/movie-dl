@@ -1,5 +1,5 @@
 # movie-dl
-![version](https://img.shields.io/github/release/vikasgola/movie-dl.svg?style=popout)
+![version](https://img.shields.io/github/v/release/vikasgola/movie-dl?color=green&include_prereleases)
 ![stars](https://img.shields.io/github/stars/vikasgola/movie-dl.svg?style=popout)
 ![issues](https://img.shields.io/github/issues/vikasgola/movie-dl.svg?style=popout)
 
