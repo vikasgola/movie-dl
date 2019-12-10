@@ -1,0 +1,2 @@
+#!/bin/sh
+python3 /opt/movie-dl/movie-dl.py "$@"
