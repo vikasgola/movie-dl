@@ -1,4 +1,7 @@
 # movie-dl
+![version](https://img.shields.io/github/release/vikasgola/movie-dl.svg?style=popout)
+![stars](https://img.shields.io/github/stars/vikasgola/movie-dl.svg?style=popout)
+![issues](https://img.shields.io/github/issues/vikasgola/movie-dl.svg?style=popout)
 
 A script to find free movies on the web and download it.
 
